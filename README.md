@@ -6,7 +6,7 @@
 <h3 >🫧 About Me </h3>
 <a href="https://zer0silver.tistory.com"> <img src="https://img.shields.io/badge/Tech Blog-EF2D5E?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://zer0silver.tistory.com"/> </a> <a href="https://www.notion.so/9df2ec6d19294e8fa16981887fe2fafe"> <img src="https://img.shields.io/badge/Portfolio-BA478F?style=flat-square&logo=Waze&logoColor=white&link=https://www.notion.so/9df2ec6d19294e8fa16981887fe2fafe"/> </a> <a href="mailto:duddms0_0@naver.com"><img src="https://img.shields.io/badge/Email-1572B6?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:duddms0_0@naver.com"/></a>  
 <br/>
-  
+<br>  
 
 <h3 >🦾 Tech Stacks </h3>
 <p>
