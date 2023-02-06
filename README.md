@@ -9,7 +9,7 @@
 <a href="mailto:duddms0_0@naver.com"><img src="https://img.shields.io/badge/Email-1572B6?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:duddms0_0@naver.com"/></a>  <a href="https://instagram.com/zeroexn?igshid=MWI4MTIyMDE="><img src="https://img.shields.io/badge/zeroexn-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/zeroexn?igshid=MWI4MTIyMDE="/></a>  
 <br/>
   
-<br>
+
 <h3 >🦾 Tech Stacks </h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
