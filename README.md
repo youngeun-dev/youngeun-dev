@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/zer0silver.svg?view=today-total&style=for-the-badge&color=97ca00)](https://hits.sh/github.com/zer0silver/)
+[![Hits](https://hits.sh/github.com/zer0silver.svg?view=today-total&style=for-the-badge&color=f9ee86)](https://hits.sh/github.com/zer0silver/)
 <!-- <img src="https://capsule-render.vercel.app/api?type=Cylinder
 &color=auto&height=170&section=header&text=young%20eun&fontSize=60&fontAlign=50&fontAlignY=40" /> -->
 <h2>안녕하세요 개발자 꿈나무 허영은입니다 🌱</h2>
