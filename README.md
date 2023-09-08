@@ -1,11 +1,6 @@
 <!-- [![Hits](https://hits.sh/github.com/zer0silver.svg?view=today-total&style=for-the-badge&color=f9ee86)](https://hits.sh/github.com/zer0silver/) -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=Cylinder
 &color=auto&height=170&section=header&text=young%20eun&fontSize=60&fontAlign=50&fontAlignY=40" /> -->
-<h2>안녕하세요 개발자 꿈나무 허영은입니다 🌱</h2>
-백엔드 개발자를 꿈꾸며 꾸준히 Spring boot를 공부하고 있습니다 💖 
-
-<br>
-<br>
 <h3 >🫧 About Me </h3>
 <a href="https://zer0silver.tistory.com"> <img src="https://img.shields.io/badge/Tech Blog-EF2D5E?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://zer0silver.tistory.com"/> </a>
 <!-- <a href="https://www.notion.so/9df2ec6d19294e8fa16981887fe2fafe"> <img src="https://img.shields.io/badge/Portfolio-BA478F?style=flat-square&logo=Waze&logoColor=white&link=https://www.notion.so/9df2ec6d19294e8fa16981887fe2fafe"/> </a> -->
