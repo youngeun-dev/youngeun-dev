@@ -35,7 +35,7 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyer&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <br>
   <br>
   <img src="https://img.shields.io/badge/DialogFlow-FF9800?style=flat-square&logo=DialogFlow&logoColor=white"/></a>&nbsp
