@@ -28,6 +28,3 @@
 |2023.07|[UMC 4기] 해커톤 최우수상|[야구장의 인기 좌석이 궁금할 땐, 어디앉아](https://github.com/UMC-Hackathon-VTeam/WhereSeat_Back_Spring)|
 |2022.11|[UMC 3기] 해커톤 참여|[캠퍼스 카풀 서비스, Catch차!](https://github.com/University-MakeUs-Challenge/3rd-hackathon-Team1/tree/main/server)|
 |2022.09|[UMC 3기] 아이디어톤 우수상|Floppy||
-
-
-
